@@ -9,6 +9,9 @@ __pycache__/
 # dataset 
 DIV2K_valid_HR
 
+# trained model state dict
+*.pth
+
 # Distribution / packaging
 .Python
 build/
